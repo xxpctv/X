@@ -1,0 +1,2 @@
+2025-06-13 10:30:22,720 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
+2025-06-13 10:30:48,451 - ERROR - url: http://is.is-great.org/ii/1749383140.txt 失败❌, Error: Connection timeout to host http://is.is-great.org/ii/1749383140.txt
